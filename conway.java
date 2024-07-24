@@ -19,7 +19,6 @@ import java.util.Random;
 //--== Personal Project ==--
 // Name: Avery Crane
 // Email:  adcrane@wisc.edu
-// Date: Summer 2023
 
 /* 
  * Main class of the Conways Game of Life program, extends Application class from JavaFX 
